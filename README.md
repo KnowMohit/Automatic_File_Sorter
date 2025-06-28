@@ -1,4 +1,4 @@
-# 🗂️ Automatic File Sorter
+# 🗂️ Automatic File Sorter Demo
 
 This Python-based script automatically sorts files in a specified directory (like your **Downloads** or **Documents** folder) based on file type. It helps keep your workspace clean and organized by moving files into categorized folders (e.g., Images, Videos, Documents, etc.).
 
